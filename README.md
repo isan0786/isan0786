@@ -1,4 +1,4 @@
-### Hi there 👋
+## Ishan Anand [Senior Data Engineer @ Scotiabank] 👋
 
 <!--
 **isan0786/isan0786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 I'm a Toronto based Senior Data Engineer with a background in Data Engineering and Statistics.🤓 . I have extensive experience designing end-to-end solutions from Algorithms, ETL pipelines and Big Datasets to optimize workflows and big data challenges in the financial space.🤖
 
 - 🤔 I'm looking for Senior/Lead Data Engineer opportunities
-- :seedling: I’m learning![badge databricks]
+- :seedling: I’m learning![badge_kubernetes]
 - 📫 Feel free to reach me by: itsishananand@gmail.com
 
 ### :microscope: Tech && Tools Preference
@@ -35,6 +35,7 @@ I'm a Toronto based Senior Data Engineer with a background in Data Engineering a
 
 ### :mailbox: How to reach me:
 
+- Portfolio: [https://isan0786.github.io][blog]
 - GitHub: [isan0786][github]
 - Email: [itsishananand@gmail.com][e-mail]
 
@@ -43,7 +44,7 @@ I'm a Toronto based Senior Data Engineer with a background in Data Engineering a
 
 
 <!-- Links -->
-[blog]: https://johnnyzhao.netlify.app/
+[blog]: https://isan0786.github.io
 [e-mail]: mailto:itsishananand@gmail.com
 [github]: https://github.com/isan0786
 
