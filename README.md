@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 I'm a Toronto (🇨🇦🍁) based Senior Data Engineer with a background in Data Engineering and Statistics.🤓 . I have extensive experience designing end-to-end solutions from Algorithms, ETL pipelines and Big Datasets to optimize workflows and big data challenges in the financial space.🤖
 
-<img align="right" src="https://ishananand.ca/assets/img/portfolio/avatar.gif" width="250" height="220" alt="Ishan Anand GIF">
+<img align="right" src="https://ishananand.ca/assets/img/portfolio/avatar.gif" width="200" height="180" alt="Ishan Anand GIF">
 
 - 🤔 I'm looking for Senior/Lead Data Engineer opportunities
 - :seedling: I’m learning![badge_kubernetes]
