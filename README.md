@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/isan0786#gh-dark-mode-only">
-  <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=isan0786&show_icons=true&hide_border=true&include_all_commits=true&disable_animations=false&theme=dracula#gh-dark-mode-only">
+  <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=isan0786&show_icons=true&hide_border=true&disable_animations=false&theme=dracula#gh-dark-mode-only">
 </a>
 
 
