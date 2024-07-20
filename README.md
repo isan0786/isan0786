@@ -1,4 +1,4 @@
-## Ishan Anand [Senior Data Engineer @ Royal Bank of Canada] 👋
+## Ishan Anand [Lead Data Engineer @ Royal Bank of Canada] 👋
 
 <!--
 **isan0786/isan0786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
